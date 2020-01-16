@@ -1548,9 +1548,9 @@ ul.list.margin-b-30 {
 
 		@media screen and (max-width: 480px) {
 .progress-bar-main{
-				width: 100%!important;
+			    width: 77%!important;
     float: left!important;
-    margin:0 24px auto!important;
+    margin: 6px 45px auto!important;
 			}
 			.row {
 				display: flex;
@@ -3059,6 +3059,7 @@ ul.list.margin-b-30 {
 
 				#header > .inner {
 					margin-bottom: 0;
+					    margin-left: 16px;
 				}
 
 		/* Footer */
