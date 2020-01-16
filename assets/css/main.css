@@ -163,6 +163,8 @@ input, select, textarea {
 	h2 {
 		font-size: 1.5em;
 		line-height: 1.5em;
+		font-size: 1.5em;
+    color: #000;
 	}
 
 	h3 {
@@ -3182,7 +3184,8 @@ ul.list.margin-b-30 {
 			}
 
 			h2 {
-				font-size: 1.2em;
+				font-size: 1.5em;
+    color: #000;
 			}
 
 			h3 {
